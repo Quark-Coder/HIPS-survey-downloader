@@ -17,7 +17,7 @@ It automatically reads survey metadata, handles retries for network errors, and 
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/hips-downloader.git
+git clone https://github.com/Quark-Coder/HIPS-survey-downloader
 cd hips-downloader
 pip install requests
 ```
