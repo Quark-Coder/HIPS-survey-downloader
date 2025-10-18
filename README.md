@@ -18,7 +18,11 @@ It automatically reads survey metadata, handles retries for network errors, and 
 
 ```bash
 git clone https://github.com/Quark-Coder/HIPS-survey-downloader
+```
+```bash
 cd HIPS-survey-downloader
+```
+```bash
 pip install requests
 ```
 ---
